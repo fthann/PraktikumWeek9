@@ -1,0 +1,14 @@
+C:\Users\Rado\PraktikumWeek9\obj\Debug\net8.0\PraktikumWeek9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rado\PraktikumWeek9\obj\Debug\net8.0\PraktikumWeek9.AssemblyInfoInputs.cache
+C:\Users\Rado\PraktikumWeek9\obj\Debug\net8.0\PraktikumWeek9.AssemblyInfo.cs
+C:\Users\Rado\PraktikumWeek9\obj\Debug\net8.0\PraktikumWeek9.csproj.CoreCompileInputs.cache
+C:\Users\Rado\PraktikumWeek9\bin\Debug\net8.0\PraktikumWeek9.exe
+C:\Users\Rado\PraktikumWeek9\bin\Debug\net8.0\PraktikumWeek9.deps.json
+C:\Users\Rado\PraktikumWeek9\bin\Debug\net8.0\PraktikumWeek9.runtimeconfig.json
+C:\Users\Rado\PraktikumWeek9\bin\Debug\net8.0\PraktikumWeek9.dll
+C:\Users\Rado\PraktikumWeek9\bin\Debug\net8.0\PraktikumWeek9.pdb
+C:\Users\Rado\PraktikumWeek9\obj\Debug\net8.0\PraktikumWeek9.dll
+C:\Users\Rado\PraktikumWeek9\obj\Debug\net8.0\refint\PraktikumWeek9.dll
+C:\Users\Rado\PraktikumWeek9\obj\Debug\net8.0\PraktikumWeek9.pdb
+C:\Users\Rado\PraktikumWeek9\obj\Debug\net8.0\PraktikumWeek9.genruntimeconfig.cache
+C:\Users\Rado\PraktikumWeek9\obj\Debug\net8.0\ref\PraktikumWeek9.dll
