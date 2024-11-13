@@ -4,45 +4,31 @@ namespace MyApp
 {
     internal class Program
     {
-            // Method static
-            static void methodStatic() {
-                Console.WriteLine("Saya adalah method static");
-            }
+            // // Method static
+            // static void methodStatic() {
+            //     Console.WriteLine("Saya adalah method static");
+            // }
 
-            // Method non-static
-            void nonStaticMethod() {
-                Console.WriteLine("Saya adalah method NON - static");
-            }
+            // // Method non-static
+            // void nonStaticMethod() {
+            //     Console.WriteLine("Saya adalah method NON - static");
+            // }
 
             
-
-            // Method entry point (Method Main)
-            static void Main(string[] args) {
-                // pemanggil method static
-                methodStatic();
-
-                // pemanggil method non staticx
-                Program program = new Program();
-                program.nonStaticMethod();
-            } 
-
-
-
-            // Method dengan return
-            static string fullName(string namaSaya) {
+            // Method Return
+            static string tulisNama(string namaSaya) {
                 return namaSaya;
             }
 
-            // Method tanpa return
-            static void nimName(string namaSaya) {
-                Console.WriteLine(nimName);
+            // Method no Return
+            static void tulisNim(string nimSaya) {
+                Console.WriteLine(nimSaya);
             }
 
-            // Method entry point (Method Main)
-            static void main(string[] args) {
-                fullName("pabaji");
-                Console.WriteLine(fullName("fortinaiti"));
-                nimName("babyo");
+            static void Main(string[] args) {
+                tulisNama("icikiwir");
+                Console.WriteLine(tulisNama("junaidi"));
+                tulisNim("pabaji");
             }
     }
 }
